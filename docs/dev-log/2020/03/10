@@ -1,0 +1,4 @@
+Writing your first Django app, part 2 (https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
+
+Set up the database, create your first model, and get a quick introduction to Django's automatically-generated admin site.
+
